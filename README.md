@@ -1,5 +1,5 @@
 # UNITE-WE-CONQUER
-WCE Hackathon (Team- UNITE WE CONQUER)
+WCE Hackathon (Team- UNITE WE CONQUER) Theme- Health Care
 # Open Care 
 
 Open Care is a informational and responsive website related to Healthcare, provides details and services provided by hospitals in your city, and user can search of pharmacies nearby a hospital and has blog feature in it to aware people of several diseases and fitness related tips by doctors.
