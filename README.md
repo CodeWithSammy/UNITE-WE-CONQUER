@@ -24,3 +24,17 @@ Open Care is a informational and responsive website related to Healthcare, provi
 ###### Screenshots
 
 - **Home Page Image** 
+![Screenshot (210)](https://user-images.githubusercontent.com/69401139/125192299-c387dc80-e264-11eb-8d29-0f392aceee0a.png)
+![IMG_20210711_162441](https://user-images.githubusercontent.com/69401139/125192311-d7334300-e264-11eb-95e8-6c0098850f65.jpg)
+
+###### Dependencies
+- Basically it’s the website for  Information about all major hospital in City(for now only for Nagpur city), and anyone can read the address and contact for hospital and also has blog section.
+
+- Jquery <br/>
+- Bootstrap <br/>
+- Resposive works on Mobile Devices <br/>
+- HTML5 <br/>
+- CSS3 <br/>
+- Smooth Scroll <br/> 
+- Parallax <br/>
+- Animation <br/>
