@@ -1,3 +1,10 @@
+/*
+
+Softy Pinko
+
+https://templatemo.com/tm-535-softy-pinko
+
+*/
 /* ---------------------------------------------
 Table of contents
 ------------------------------------------------
@@ -388,7 +395,7 @@ header
 
 .header-area .main-nav .logo {
   float: left;
-  margin-top: 37px;
+  padding-top: -37px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
