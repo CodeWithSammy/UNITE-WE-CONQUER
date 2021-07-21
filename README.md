@@ -10,6 +10,7 @@ Open Care is a informational and responsive website related to Healthcare, provi
 - [Responsibility](#responsibility)
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
+- [Team Members and Contributors](#Team-Members-and-Contributors)
 
 #### About Healthcare
 - Open Care is a informational and responsive website related to Healthcare, provides details and services provided by hospitals in your city, and user can search of pharmacies nearby a hospital and has blog feature in it to aware people of several diseases and fitness related tips by doctors.
@@ -24,7 +25,7 @@ Open Care is a informational and responsive website related to Healthcare, provi
 
 ###### Screenshots
 
-- **Home Page Image** 
+- *Home Page Image* 
 - Deskstop and Mobile devices
 ![Screenshot (210)](https://user-images.githubusercontent.com/69401139/125192299-c387dc80-e264-11eb-8d29-0f392aceee0a.png)
 ![IMG_20210711_162441](https://user-images.githubusercontent.com/69401139/125192311-d7334300-e264-11eb-95e8-6c0098850f65.jpg)
