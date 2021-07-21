@@ -40,3 +40,6 @@ Open Care is a informational and responsive website related to Healthcare, provi
 - Smooth Scroll <br/> 
 - Parallax <br/>
 - Animation <br/>
+
+###### Team Members and Contributors
+https://github.com/CodeWithSammy and https://github.com/sahilgupta3030
